@@ -86,7 +86,7 @@ Contact:9830737588
 
 [Download My CV](## 📄 Resume
 
-[Download My CV](https://github.com/AnkurRAKHSIT9636/AnkurRAKHSIT9636/blob/main/ANKUR-RAKSHIT-FlowCV-Resume-20260219%20(4)%20(2).pdf)
+[Download My CV](https://raw.githubusercontent.com/AnkurRAKHSIT9636/AnkurRAKHSIT9636/blob/main/ANKUR-RAKSHIT-FlowCV-Resume-20260219%20(4)%20(2).pdf))
 
 
 ---
