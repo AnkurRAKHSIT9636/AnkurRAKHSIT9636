@@ -28,12 +28,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkurRAKHSIT9636&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnkurRAKHSIT9636&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurRAKHSIT9636&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AnkurRAKHSIT9636&theme=radical)
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnkurRAKHSIT9636&layout=compact&theme=radical)
 ---
 
 ## ✍️ Random Dev Quote
