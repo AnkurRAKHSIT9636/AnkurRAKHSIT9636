@@ -64,7 +64,8 @@ Full-stack application with authentication, routing, and database integration.
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnkurRAKHSIT9636&theme=radical)
 
 ---
-### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 ---
