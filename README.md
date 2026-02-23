@@ -82,6 +82,12 @@ Email: ankurrakshit2@gmail.com
 
 Contact:9830737588
 
+## 📄 Resume
+
+[Download My CV](## 📄 Resume
+
+[Download My CV](https://github.com/AnkurRAKHSIT9636/AnkurRAKHSIT9636/blob/main/ANKUR-RAKSHIT-FlowCV-Resume-20260219%20(4)%20(2).pdf)
+
 
 ---
 
