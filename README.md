@@ -64,6 +64,7 @@ Full-stack application with authentication, routing, and database integration.
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnkurRAKHSIT9636&theme=radical)
 
 ---
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ### 🔝 Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=AnkurRAKHSIT9636&limit=5&theme=onedark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=AnkurRAKHSIT9636&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📫 Connect With Me
 
