@@ -1,5 +1,5 @@
 # Hi, I'm Ankur 👋  
-### Machine Learning & Backend Developer
+### Machine Learning & MERN Developer
 
 I build end-to-end Machine Learning systems — from raw data to deployed APIs.
 
